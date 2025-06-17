@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Zinga18018
+# Hey there! I'm Yogesh Kuchimanchi 
 
 🚀 Welcome to my corner of the AI multiverse!  
 I'm a passionate **Data Scientist + Full Stack Explorer** building *intelligent, impactful, and imaginative* tools using AI, ML, and NLP. Whether it's emotional art generation or fixing messy data, I make ideas come alive through code.
