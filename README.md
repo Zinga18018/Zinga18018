@@ -1,13 +1,13 @@
 # Hey there! I'm Yogesh Kuchimanchi 
 
-🚀 Welcome to my corner of the AI multiverse!  
+ Welcome to my corner of the AI multiverse!  
 I'm a passionate **Data Scientist + Full Stack Explorer** building *intelligent, impactful, and imaginative* tools using AI, ML, and NLP. Whether it's emotional art generation or fixing messy data, I make ideas come alive through code.
 
 ---
 
-## 🧠 What I Build: Smart Systems That Do More Than Think
+##  What I Build: Smart Systems That Do More Than Think
 
-| 🛠 Project | 🌟 What It Does |
+| Project |  What It Does |
 |-----------|----------------|
 | [NeuroCanvas-AI-Art-Generator](https://github.com/Zinga18018/NeuroCanvas-AI-Art-Generator) | 🎨 Turns emotions into stunning neuromorphic artwork using AI + multimodal analysis |
 | [MetalVision-AI](https://github.com/Zinga18018/MetalVision-AI) | 🧲 Detects surface defects in metals using PyTorch, CNNs, and SMOTE |
@@ -34,7 +34,7 @@ I don’t just make cool projects — I **ship** tools that:
 
 ---
 
-## 💼 Actively Seeking Opportunities
+##  Actively Seeking Opportunities
 
 I'm currently looking for:
 - Data Science Internships (Remote or US-based)
