@@ -1,57 +1,63 @@
-# Hey there! I'm Yogesh Kuchimanchi 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Yogesh%20Kuchimanchi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20Full%20Stack%20Developer&descAlignY=51&descAlign=62)
 
- Welcome to my corner of the AI multiverse!  
-I'm a passionate **Data Scientist + Full Stack Explorer** building *intelligent, impactful, and imaginative* tools using AI, ML, and NLP. Whether it's emotional art generation or fixing messy data, I make ideas come alive through code.
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=33B1FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Machine+Learning+Pipelines;Full+Stack+Data+Tools;Open+Source+Contributor" alt="Typing SVG" />
+</a>
+</div>
 
----
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-##  What I Build: Smart Systems That Do More Than Think
-
-| Project |  What It Does |
-|-----------|----------------|
-| [NeuroCanvas-AI-Art-Generator](https://github.com/Zinga18018/NeuroCanvas-AI-Art-Generator) | 🎨 Turns emotions into stunning neuromorphic artwork using AI + multimodal analysis |
-| [MetalVision-AI](https://github.com/Zinga18018/MetalVision-AI) | 🧲 Detects surface defects in metals using PyTorch, CNNs, and SMOTE |
-| [Echo-Muse](https://github.com/Zinga18018/echo-muse-therapeutic-storytelling) | 🎭 AI-generated therapeutic storytelling with ambient soundscapes |
-| [FixMyData-AI](https://github.com/Zinga18018/FixMyData-AI) | 🧹 Cleans your messy CSVs with AI — finds missing values, outliers, and more |
-| [SymptomAid-AI](https://github.com/Zinga18018/SymptomAid-AI) | 🩺 AI-powered medical symptom analysis tool using Ollama + Streamlit |
-| [Stock-Sentiment-Dashboard](https://github.com/Zinga18018/stock-sentiment-dashboard) | 📈 Realtime NLP dashboard for stock sentiment vs price movement |
-| [Time-Chronicles-AI](https://github.com/Zinga18018/time-chronicles-ai) | 🕰️ Interactive AI-powered storytelling of historic eras |
-| [Restaurant-Analytics-LLM](https://github.com/Zinga18018/restaurant-analytics-llm) | 🍽️ LLM dashboard for analyzing restaurant data using natural language |
-| [Credit-Card-Default-Prediction](https://github.com/Zinga18018/credit-card-default-prediction) | 💳 FastAPI ML API to predict credit card defaults |
-| [Customer-Churn-Prediction](https://github.com/Zinga18018/customer-churn-prediction) | 🔁 Predicts if a customer is likely to churn using ML pipelines |
-| [AI Slide Deck Generator](https://github.com/Zinga18018/ai-slide-deck-generator) | 📊 Convert plain text into killer Google Gemini-powered slide decks |
+</div>
 
 ---
 
-## 🔍 Not Just Flashy — They're Functional
+### 👨‍💻 Technical Stack
 
-I don’t just make cool projects — I **ship** tools that:
-- Clean real-world data messes
-- Decode human emotion using ML
-- Make AI explain itself
-- Work in real-time dashboards
-- Use modern stacks: `Python`, `TypeScript`, `FastAPI`, `Next.js`, `Ollama`, `PyTorch`, `Streamlit`, and `LLMs`.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
 
 ---
 
-##  Actively Seeking Opportunities
+### 🛠 Selected Projects
 
-I'm currently looking for:
-- Data Science Internships (Remote or US-based)
-- AI Research Assistantships
-- LLM x Product Integration Roles
-
-**I’m open to anything that challenges me to grow.**  
-You’ll get passion, fast learning, and a builder’s mindset.
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[MetalVision](https://github.com/Zinga18018/MetalVision-AI)** | Surface defect detection for manufacturing. Implements SMOTE for class imbalance to improve accuracy. | `PyTorch` `CNN` |
+| **[FixMyData](https://github.com/Zinga18018/FixMyData-AI)** | Automated data cleaning tool. Instantly detects and resolves missing values and outliers in CSV datasets. | `Pandas` `NumPy` |
+| **[Credit Card Default](https://github.com/Zinga18018/credit-card-default-prediction)** | High-performance REST API for predicting credit defaults using trained ensemble models. | `FastAPI` `Sklearn` |
+| **[Stock Sentiment](https://github.com/Zinga18018/stock-sentiment-dashboard)** | Real-time dashboard correlating market news sentiment with stock price movements. | `NLP` `Streamlit` |
+| **[SymptomAid](https://github.com/Zinga18018/SymptomAid-AI)** | Medical symptom analysis interface powered by local LLMs (Ollama) for privacy-first health queries. | `Ollama` `LLM` |
+| **[Restaurant Analytics](https://github.com/Zinga18018/restaurant-analytics-llm)** | Natural language interface for querying restaurant databases. Converts English to SQL. | `LangChain` `SQL` |
+| **[NeuroCanvas](https://github.com/Zinga18018/NeuroCanvas-AI-Art-Generator)** | Generative art system based on multimodal emotion analysis. | `GenAI` `Python` |
 
 ---
 
-## 🛠 Stack Highlights
+### 📊 GitHub Analytics
 
-```bash
-Languages: Python, JavaScript, TypeScript, SQL  
-Frameworks: FastAPI, Streamlit, Flask, PyTorch, Next.js  
-ML: Scikit-learn, SMOTE, CNN, Ensemble Models  
-NLP: HuggingFace, Ollama, Gemini, Prompt Engineering  
-Data: SQLite, Pandas, NumPy  
-DevOps: GitHub Actions, CI/CD ready
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zinga18018&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinga18018&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+</div>
