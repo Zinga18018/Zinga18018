@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Yogesh%20Kuchimanchi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20Full%20Stack%20Developer&descAlignY=51&descAlign=62)
 
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -57,7 +56,3 @@
 
 ### GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zinga18018&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinga18018&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
