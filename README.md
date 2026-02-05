@@ -40,7 +40,7 @@
 
 ---
 
-### 🛠 Selected Projects
+### Selected Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -51,8 +51,3 @@
 | **[SymptomAid](https://github.com/Zinga18018/SymptomAid-AI)** | Medical symptom analysis interface powered by local LLMs (Ollama) for privacy-first health queries. | `Ollama` `LLM` |
 | **[Restaurant Analytics](https://github.com/Zinga18018/restaurant-analytics-llm)** | Natural language interface for querying restaurant databases. Converts English to SQL. | `LangChain` `SQL` |
 | **[NeuroCanvas](https://github.com/Zinga18018/NeuroCanvas-AI-Art-Generator)** | Generative art system based on multimodal emotion analysis. | `GenAI` `Python` |
-
----
-
-### GitHub Analytics
-
