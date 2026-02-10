@@ -1,8 +1,5 @@
 
-<div align="center">
-</div>
 
-<div align="center">
   
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://www.linkedin.com/in/yogeshkuchimanchi/" />
