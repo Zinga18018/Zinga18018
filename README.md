@@ -4,14 +4,14 @@ Data scientist and M.S. Data Science candidate at Rochester Institute of Technol
 
 I build ML systems the way I build a PC: every component should have a clear job, fit the rest of the system, and remain testable after the machine turns on. My current work focuses on clinical risk, NLP, statistical evaluation, probability calibration, and model drift.
 
-[Portfolio](https://portfolio-website-pied-tau-72.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yogesh-kuchimanchi) · [Email](mailto:kuchimanchiyogesh@gmail.com)
+[Portfolio](https://portfolio-website-pied-tau-72.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yogeshkuchimanchi/) · [Email](mailto:kuchimanchiyogesh@gmail.com)
 
 ## Start here
 
 | Project | What I built | Verified result | Demo |
 |---|---|---|---|
 | [Clinical Readmission Risk](https://github.com/Zinga18018/readmission-risk-audit) | Leakage-safe binary 30-day readmission pipeline with patient-disjoint cohorts, calibration, and drift audits | 0.661 ROC-AUC, 0.175 PR-AUC, 0.077 Brier on 10,822 held-out encounters | [Open app](https://yogesh-readmission-risk-audit.streamlit.app/) |
-| [NewsSnap](https://github.com/Zinga18018/NewsSnap) | DistilBERT training pipeline, FastAPI service, React confidence dashboard, CI/CD, and 22 tests | 0.870 accuracy, 0.869 macro-F1, 0.827 MCC on 12,000 held-out articles | [Open app](https://news-snap-three.vercel.app/) |
+| [NewsSnap: Transformer News Classification](https://github.com/Zinga18018/NewsSnap) | DistilBERT training and evaluation, FastAPI inference, a transparent Streamlit demo, and tested request handling | 0.870 accuracy, 0.869 macro-F1, 0.827 MCC on 12,000 held-out articles | [Open app](https://yogesh-newssnap-classifier.streamlit.app/) |
 | [DriftLab](https://github.com/Zinga18018/driftlab-model-monitoring-simulator) | Deterministic simulator for performance decay, class-prior shift, PSI, approximate KS, and alerts | Mixed shift: ROC-AUC 0.758 → 0.372, max PSI 0.608, three alerts | [Open app](https://yogesh-driftlab-monitoring.streamlit.app/) |
 
 The public NewsSnap API currently uses a clearly labeled demo-inference mode. The trained DistilBERT evaluation above comes from the saved project artifacts; I do not present the hosted heuristic as transformer inference.
