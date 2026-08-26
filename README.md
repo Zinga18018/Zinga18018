@@ -18,7 +18,7 @@ The public NewsSnap API currently uses a clearly labeled demo-inference mode. Th
 
 ## Research and experience
 
-- Graduate Researcher, Data Science at RIT: analyzed 351,501 Reddit and YouTube comments across 16 women-safety cases and evaluated Qwen3.5-9B with LoRA on 3,000 held-out examples.
+- Graduate Researcher, Data Science at RIT: analyzed 351,501 Reddit and YouTube comments across 16 women-safety cases and evaluated Qwen3.5-9B with LoRA on 3,000 held-out examples. [Research dashboard](https://portfolio-website-pied-tau-72.vercel.app/research/women-safety)
 - Author of a paper accepted at ASONAM 2026.
 - GCCIS Technical Assistant at RIT: support 200+ Windows and Linux lab systems and maintain Excel/VBA reports.
 - Research Assistant at RIT: refactored Pandas/NumPy scripts and validated PostgreSQL and Excel data for weekly reporting.
